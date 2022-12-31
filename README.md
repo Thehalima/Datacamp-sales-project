@@ -21,4 +21,4 @@ The sales dataset was gotten from datacamp.It has 1000 rows and 8 columns with n
  	-	Miscellaneous	    $222.67
  	-	Suspension & traction	 $320.24
 
-3. Plots are available in the 
+3. Plots are available in the [jupyter notebook](https://github.com/Thehalima/Motorcycle-compay-sales-project/blob/main/Motorcycle-company-sales.ipynb)
