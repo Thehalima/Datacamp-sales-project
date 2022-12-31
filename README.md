@@ -1,4 +1,4 @@
-# Datacamp-sales-project
+# Motorcycle-sales-project
 
 This project is from datacamp competition. Here, I worked as an analyst in the accounting department of a company that sells motorcycle parts. A colleague wants to get answers to some questions so I will be helping her. The challenge is to create a report to answer her questions. Her questions are as follows:
 
